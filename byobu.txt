@@ -1,0 +1,2 @@
+##byobu installation
+$ sudo apt-get install byobu
