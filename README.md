@@ -1,5 +1,3 @@
 # trival
-============
-byobu
-----------
+## byobu
 install byobu in byobu.txt
